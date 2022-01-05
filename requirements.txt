@@ -70,7 +70,6 @@ widgetsnbextension==3.5.2
 isort==5.5.2
 itsdangerous==1.1.0
 lazy-object-proxy==1.4.3
-MarkupSafe==1.1.1
 mccabe==0.6.1
 numpy==1.19.2
 pycodestyle==2.6.0
