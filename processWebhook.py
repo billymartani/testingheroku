@@ -84,6 +84,8 @@ def home():
     layout = column(menu, date_range_slider, bokeh_p)
 
     show(layout)
+    
+    return layout
 
 if __name__ == "__main__":
     app.secret_key = 'ItIsASecret'
